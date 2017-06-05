@@ -1,4 +1,4 @@
-update=sábado, 03 '03e' junio '03e' 2017, 10:00:02
+update=05/06/2017 14:19:26
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../kicad-library/libs;../kicad-library2/library
+LibDir=../../../Documents/GitHub/kicad-library/library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -61,3 +61,14 @@ LibName29=valves
 LibName30=/Users/juanda/Apps/pcbs/kicad-library/libs/SPDT
 LibName31=/Users/juanda/Apps/pcbs/kicad-library/libs/SPST
 LibName32=/Users/juanda/Apps/pcbs/kicad-library2/library/switches
+LibName33=switches
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
