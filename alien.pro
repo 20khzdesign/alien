@@ -1,4 +1,4 @@
-update=06/06/2017 13:48:33
+update=13/06/2017 13:04:45
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,10 +58,7 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/Users/juanda/Apps/pcbs/kicad-library/libs/SPDT
-LibName31=/Users/juanda/Apps/pcbs/kicad-library/libs/SPST
-LibName32=/Users/juanda/Apps/pcbs/kicad-library2/library/switches
-LibName33=switches
+LibName30=switches
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
