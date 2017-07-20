@@ -1,4 +1,4 @@
-update=13/06/2017 13:04:45
+update=20/07/2017 13:45:00
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,9 +25,19 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=../../../Documents/GitHub/kicad-library/library
+LibDir=../../OneDrive/kicadProjects/myLibraries
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,13 +69,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=switches
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName31=C:/Users/juan.david/OneDrive/kicadProjects/myLibraries/jd_conn
+LibName32=C:/Users/juan.david/OneDrive/kicadProjects/myLibraries/w_connectors
