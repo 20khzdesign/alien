@@ -1,4 +1,4 @@
-update=20/07/2017 13:45:00
+update=sábado, 22 '22e' julio '22e' 2017, 09:02:44
 version=1
 last_client=kicad
 [pcbnew]
@@ -37,7 +37,7 @@ SpiceUseNetNumbers=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=../../OneDrive/kicadProjects/myLibraries
+LibDir=/Users/juanda/OneDrive/kicadProjects/myLibraries
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -69,5 +69,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=switches
-LibName31=C:/Users/juan.david/OneDrive/kicadProjects/myLibraries/jd_conn
-LibName32=C:/Users/juan.david/OneDrive/kicadProjects/myLibraries/w_connectors
+LibName31=jd_conn
+LibName32=w_connectors
